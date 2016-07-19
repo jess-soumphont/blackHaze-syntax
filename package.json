@@ -1,7 +1,7 @@
 {
   "name": "black-haze-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An ATOM theme specifically catered towards Titanium Development (JS, XML, TSS). The color choices were largely based off of the Aurora theme from Sublime Text.",
   "keywords": [
     "syntax",
