@@ -1,5 +1,8 @@
 # black-haze-syntax theme
 
-A short description of your theme.
+An ATOM theme specifically catered towards Titanium Development (JS, XML, TSS). The color choices were largely based off of the Aurora theme from Sublime Text.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Methods and comments example](http://i.imgur.com/UEPO8eY.png)
+![Variable declaration example](http://i.imgur.com/skeVelp.png)
+![Alloy XML](http://i.imgur.com/nIo7gkG.png)
+![TSS](http://i.imgur.com/1Sx0Yix.png)
